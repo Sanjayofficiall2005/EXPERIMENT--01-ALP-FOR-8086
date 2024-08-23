@@ -1,7 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
+```
 Name :SANJAY M
 Roll no :212223230187
 Date of experiment : 22.08.2024
+```
 
 
 
@@ -123,7 +125,7 @@ HLT
 
 
 ## Result :
- ![Screenshot 2024-08-23 073853](https://github.com/user-attachments/assets/ddffa777-0506-4869-8bb5-16b0dfd7b5f1)
+Thus the code is successfully executed
 
 
 
